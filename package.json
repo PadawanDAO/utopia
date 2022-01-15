@@ -2,8 +2,8 @@
   "name": "utopia",
   "private": true,
   "scripts": {
-    "dev": "next dev ",
-    "build": "next build && next export",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
